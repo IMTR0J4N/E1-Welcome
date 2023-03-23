@@ -1,0 +1,39 @@
+main {
+  position: relative;
+}
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.gray {
+  color: gray;
+}
+
+.redcolor {
+  color: rgb(255,99,71);
+}
+
+.bluecolor {
+  color: rgb(127,255,212);
+}
+
+.orangecolor {
+  color: rgb(218,165,32);
+}
+
+.redline {
+  background-color: rgb(255, 99, 71);
+}
+
+.blueline {
+  background-color: rgb(127,255,212);
+}
+
+.orangeline {
+  background-color: rgb(218,165,32);
+}
